@@ -1,0 +1,43 @@
+mt-3   = margin top
+mb-3   = margin bottom
+ms-3   = margin start (lijevo)
+me-3   = margin end (desno)
+
+mx-3   = margin lijevo + desno
+my-3   = margin gore + dolje
+
+p-3    = padding sa svih strana
+px-3   = padding lijevo + desno
+py-3   = padding gore + dolje
+
+m = margin → vanjski razmak
+p = padding → unutarnji razmak
+
+t = top → gore
+b = bottom → dolje
+s = start → lijevo u našem slučaju
+e = end → desno u našem slučaju
+x = lijevo + desno
+y = gore + dolje
+g = gap
+
+Kratica	Ekran
+sm	mali ekran
+md	srednji ekran
+lg	veliki ekran
+xl	vrlo veliki
+xxl	jako veliki
+
+text-center	tekst u sredini
+text-start	tekst lijevo
+text-end	tekst desno
+fw-bold		podebljan tekst
+text-white	bijeli tekst
+text-secondary	sekundarna/siva boja
+fs-1 do fs-6	veličina fonta
+
+fw = font weight
+fs = font size
+
+https://getbootstrap.com/docs/5.3/components/navs-tabs/
+https://getbootstrap.com/docs/5.0/layout/containers/
